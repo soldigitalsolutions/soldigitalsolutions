@@ -6,7 +6,7 @@ I'm **EPamar**, founder of **Sol Digital Solutions** — building practical open
 
 ### 🚀 Featured Projects
 
-* **[xiaozhi-radio-server](https://github.com/soldigitalsolutions/xiaozhi-radio-server)** *(Beta)*  
+* **[xiaozhi-radio-server](https://github.com/soldigitalsolutions/xiaozhi-radio-server)** *(Production)*  
   Real-time audio proxy & Ogg/Opus transcoder (`Python` + `Flask` + `FFmpeg` + `Docker`) designed to stream live internet radio stations smoothly on **ESP32-S3** boards running **Xiaozhi AI** firmware.
 
 * **[Sol - Venta por Catálogo](https://github.com/soldigitalsolutions)** *(Production)*  
